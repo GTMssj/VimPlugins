@@ -17,7 +17,6 @@ First install zsh using apt:
 ```bash
 sudo apt install -y zsh
 ```
-  
 And then install zsh
 ```bash
 sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
